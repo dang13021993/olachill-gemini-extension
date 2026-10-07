@@ -1,0 +1,12 @@
+{
+  "name": "olachill",
+  "version": "1.0.0",
+  "description": "Find and price Japan travel services from OlaChill: tours, activities, attraction tickets, ryokan, private airport transfers, cars with driver, charter buses, helicopter flights, golf and Japan eSIM.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "olachill": {
+      "httpUrl": "https://olachill.com/mcp",
+      "timeout": 30000
+    }
+  }
+}
